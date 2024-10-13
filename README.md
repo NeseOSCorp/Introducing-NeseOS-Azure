@@ -19,7 +19,7 @@ Yes. NeseOS Azure's own Datacenter and Shebnem Datacenter will included to get 2
 
 # How to check if Azure servers online or offline?
 
-Checkout our Azure status via (NeseOS Azure Status)[https://status.azure.neseos.42web.io/]
+Checkout our Azure status via [NeseOS Azure Status](https://status.azure.neseos.42web.io/)
 
 
 
