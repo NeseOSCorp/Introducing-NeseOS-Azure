@@ -6,7 +6,7 @@ NeseOS Azure is similar to Microsoft Azure but, difference is: integrated discor
 
 # How it works?
 
-Well, NeseOS Azure is integrated discord bot and if you're type "(azure's prefix)add <zip file url (must contains nodejs)" command, your server will be activated automatically (must installed express package on nodejs before add to Azure). Integrated content delivery network (CDN) coming soon 👀. 
+Well, NeseOS Azure is integrated discord bot and if you're type "(azure's prefix)add <zip file url (must contains nodejs)>" command, your server will be activated automatically (must installed express package on nodejs before add to Azure). Integrated content delivery network (CDN) coming soon 👀. 
 
 # NeseOS Azure are better than Microsoft Azure?
 
