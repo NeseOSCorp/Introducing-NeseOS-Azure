@@ -14,7 +14,12 @@ Yes. NeseOS Azure are better than Microsoft Azure!
 
 # Shebnem Datacenter will included on NeseOS Azure?
 
-Yes. NeseOS Azure's own Datacenter and Shebnem Datacenter will included to get 24/7 hours active. Stay tuned everyone!
+Yes. NeseOS Azure's own Datacenter and Shebnem Datacenter will included to get 24/7 hours active. Stay tuned everyone
+
+
+# How to check if Azure servers online or offline?
+
+Checkout our Azure status via (NeseOS Azure Status)[https://status.azure.neseos.42web.io/]
 
 
 
