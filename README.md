@@ -2,7 +2,7 @@ Introducing NeseOS Azure!
 
 # What's NeseOS Azure?
 
-NeseOS Azure is similar to Microsoft Azure but, difference is: integrated discord bot. NeseOS Partners, our workers, CEO, Co-Workers, Owners, Co-Owners, Administrators and Copyright managers can use NeseOS Azure!
+NeseOS Azure is similar to Microsoft Azure but, difference is: integrated discord bot. NeseOS Partners, our workers, CEO, Co-Workers, Owners, Co-Owners, Administrators, Moderators and Copyright managers can use NeseOS Azure!
 
 # How it works?
 
