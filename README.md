@@ -11,3 +11,14 @@ Well, NeseOS Azure is integrated discord bot and if you're type "(azure's prefix
 # NeseOS Azure are better than Microsoft Azure?
 
 Yes. NeseOS Azure are better than Microsoft Azure!
+
+# Shebnem Datacenter will included on NeseOS Azure?
+
+Yes. NeseOS Azure's own Datacenter and Shebnem Datacenter will included to get 24/7 hours active. Stay tuned everyone!
+
+
+Orxan Muxtarov (software engineer + researcher at NeseOS Corporation)
+
+David Guetta (Second CEO at NeseOS Corporation)
+
+Roblox Nisa (first CEO (nowadays) + Copyright manager at NeseOS Corporation)
